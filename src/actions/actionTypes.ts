@@ -1,0 +1,8 @@
+export const ADD_SERVICE = 'ADD_SERVICE';
+export const REMOVE_SERVICE = 'REMOVE_SERVICE';
+export const EDIT_SERVICE = 'EDIT_SERVICE';
+export const SWITCH_ACTION = 'SWITCH_ACTION';
+export const EDIT_SERVICE2 = 'EDIT_SERVICE2';
+export const CHANGE_SERVICE_FIELD = 'CHANGE_SERVICE_FIELD';
+export const NEW_ID = 'NEW_ID';
+export const SWITCH_ID = 'SWITCH_ID';
